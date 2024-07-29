@@ -1,0 +1,31 @@
+Textual Similarity Evaluation Template for Decompiled Functions
+
+1. Original Function
+```
+[SRC]
+```
+2. Decompiled Function
+```
+[DSRC]
+```
+3. Evaluation Aspects
+Each aspect of the decompiled function should be rated on a scale from 1 (Poor) to 5 (Excellent). Provide brief justifications for each rating.
+
+3.1 Overall Textual Similarity
+- Description: Measures the general lexical resemblance between the decompiled function and original function, including syntax and sequence of function elements.
+Rating:
+Short Justification:
+
+3.2 Variable Names
+- Description: Assesses how closely the variable names in the decompiled function match those in the original.
+Rating:
+Short Justification:
+
+3.3 Use of External Calls and Variable Types
+- Description: Considers whether the decompiled function uses the same external calls and variable types as the original
+Rating:
+Short Justification:
+
+4. Overall Textual Similarity
+Description: Based on the detailed aspects evaluated above, provide an overall numerical score from 1 (Poor) to 5 (Excellent) for the textual similarity of the decompiled function. Do not explain.
+Score:

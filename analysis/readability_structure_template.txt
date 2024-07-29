@@ -1,0 +1,31 @@
+Structural Similarity Evaluation Template for Decompiled Functions
+
+1. Original Function
+```
+[SRC]
+```
+2. Decompiled Function
+```
+[DSRC]
+```
+3. Evaluation Aspects
+Each aspect of the decompiled function should be rated on a scale from 1 (Poor) to 5 (Excellent). Provide brief justifications for each rating.
+
+3.1 Functionality (Logic and Output)
+- Description: Evaluates whether the logic and resulting output of the decompiled code remain consistent with the original.
+Rating:
+Short Justification:
+
+3.2 Code Organization
+- Description: Examine how blocks of decompiled function, including classes, and modules, blocks, are organized relative to the original.
+Rating:
+Short Justification:
+
+3.3 Control Structures
+- Description: Assess the implementation and integrity of decompiled loops, conditionals, and other control flow elements w.r.t. original function.
+Rating:
+Short Justification:
+
+4. Overall Structural Similarity
+Description: Based on the detailed aspects evaluated above, provide an overall numerical score from 1 (Poor) to 5 (Excellent) for the structural similarity of the decompiled function. Do not explain.
+Score:
